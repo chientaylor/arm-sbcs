@@ -36,8 +36,6 @@ The good thing is that all of these seem to be very up-to-date. The version of D
 
 The FriendlyWRT image was the one I was interested in though, so that was the first test. The .img file flashed easily enough, and the bootup was simple. OpenWRT's web interface came up the same as always, and the fact that the interface names silkscreened on the back matched up to how they were marked in the OS was a nice bonus.
 
-I ordered the version without the eMMC, so there is some stuff I can't test, like the Android image for eMMC, or some of the netboot features for flashing the OS.
-
 ## Current OS Support Links
 
 FriendlyELEC Wiki Page: https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S#Install_OS

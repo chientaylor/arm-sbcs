@@ -300,4 +300,5 @@ I then killed all Pi's user processes and deleted the user.
 ```
 killall -u pi
 deluser pi
+rm -rf /home/pi
 ```

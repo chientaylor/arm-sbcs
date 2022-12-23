@@ -23,7 +23,7 @@ https://tchien.com/2022/12/22/radxa-rock5b
 
 ## 3D Models
 
-One thing I have to give Radxa credit for is providing a full 3D model of the device. I used this to make a (case)[https://www.printables.com/model/345623-radxa-rock5b-case-for-cooler] and (heatsink adapter)[https://www.printables.com/model/345229-radxa-rock-5b-ice-tower-low-profile-conversion-bra] for the SBC.
+One thing I have to give Radxa credit for is providing a full 3D model of the device. I used this to make a [case](https://www.printables.com/model/345623-radxa-rock5b-case-for-cooler) and [heatsink adapter](https://www.printables.com/model/345229-radxa-rock-5b-ice-tower-low-profile-conversion-bra) for the SBC.
 
 https://wiki.radxa.com/Rock5/hardware
 

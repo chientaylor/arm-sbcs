@@ -40,27 +40,7 @@ The FriendlyWRT image was the one I was interested in though, so that was the fi
 
 FriendlyELEC Wiki Page: https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S#Install_OS
 
-## Benchmarks
-
-### CPU
-
-TBD
-
-### Memory
-
-TBD
-
-### Networking
-
-TBD
-
-### USB
-
-TBD
-
-### M.2
-
-TBD
+DietPi: https://dietpi.com/downloads/images/DietPi_NanoPiR5S-ARMv8-Bullseye.7z
 
 ## Hardware Tree
 

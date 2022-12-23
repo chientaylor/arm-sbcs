@@ -27,20 +27,9 @@ However, the case does not seem to be easily removable. Between whatever thermal
 
 There is also no indication of which direction the baseplate should go, because it is directional, but only because of about one millimeter of clearance on some board components.
 
-### Operating Systems
-The intended use case for this device is as an internet gateway, using FriendlyWRT, their Docker-enabled version, or a Ubuntu Core derivitive. It's fine, but it's one of those weird Chinese images that has too much random stuff on it for me to trust, especially since the source is Google Drive.
+## Review
 
-It's not a bad port of OpenWRT, but I would prefer is that they contribute their changes directly to OpenWRT as well as make their own OS. The R4S has an image in Snapshot, but not the R5S.
-
-The good thing is that all of these seem to be very up-to-date. The version of Debian available is Buster, but it was built June 30th, the day before I started testing. The rest were at least all built in June, so that makes testing easier.
-
-The FriendlyWRT image was the one I was interested in though, so that was the first test. The .img file flashed easily enough, and the bootup was simple. OpenWRT's web interface came up the same as always, and the fact that the interface names silkscreened on the back matched up to how they were marked in the OS was a nice bonus.
-
-## Current OS Support Links
-
-FriendlyELEC Wiki Page: https://wiki.friendlyelec.com/wiki/index.php/NanoPi_R5S#Install_OS
-
-DietPi: https://dietpi.com/downloads/images/DietPi_NanoPiR5S-ARMv8-Bullseye.7z
+https://tchien.com/2022/12/22/friendlyarmfriendlyelec-nanopi-r5s
 
 ## Hardware Tree
 

@@ -17,6 +17,6 @@ Specs Ordered
 
 - 16 GB RAM
 
-### Operating Systems
+## Review
 
-Provided by Radxa are images for Android, Ubuntu Focal, and Debian Bullseye.
+https://tchien.com/2022/12/22/radxa-rock5b
